@@ -1,7 +1,7 @@
 # learn-webrtc
 
 ```bash
-git clone https://gitee.com/sevenzyh/learn-webrtc.git
+git clone https://github.com/clearself/video.git
 
 cd webrtc-server
 
